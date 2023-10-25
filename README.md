@@ -18,7 +18,7 @@ Analyzing regional differences, I discovered that Sub-Saharan Africa saw the gre
 
 ## Dashboard Display
 
-![Dashboard](Charts.pdf)
+![Dashboard](Walkthroughs_1_2/dashboard.jpg)
 
 Above is a visual representation of the project's findings, displayed in the dashboard format. The dashboard provides a comprehensive overview of access to safe and affordable drinking water, showcasing the insights gained from the data analysis.
 
