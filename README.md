@@ -28,7 +28,7 @@ The analysis included examining central tendency measures like mean and median, 
 
 **5. Data Visualization**
 
-Visualizations such as histograms, bar charts, and scatter plots were employed to explore relationships between variables like income levels, population size, and access to basic water services. These visualizations helped identify patterns, trends, and potential outliers requiring further investigation.
+Visualizations such as histograms, bar charts, and bubble plot were employed to explore relationships between variables like income levels, population size, and access to basic water services. These visualizations helped identify patterns, trends, and potential outliers requiring further investigation.
 
 ![Dashboard](Walkthroughs_1_2/dashboard.jpg)
 
