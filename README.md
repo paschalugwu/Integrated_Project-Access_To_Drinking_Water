@@ -1,27 +1,93 @@
-# Access to Safe and Affordable Drinking Water
+## Comprehensive Report on Access to Safe and Affordable Drinking Water
 
-## Project Overview
+**Introduction**
 
-Once upon a time, I embarked on a journey to tackle the global challenge of providing safe and affordable drinking water. This comprehensive project aimed to understand and transform the data related to access to drinking water.
+**1. Project Overview**
 
-## Part 1: Understanding Access to Water
+This project tackles the critical global challenge of ensuring safe and affordable drinking water for all. It aims to understand the current landscape of access to water by analyzing relevant data and uncovering valuable insights. By identifying trends, disparities, and areas for improvement, we can contribute to a future where everyone has access to this essential resource.
 
-In the first part of the project, I delved into the dataset, exploring various aspects of access to water. I discovered that the estimated world urban population size in 2020 had a percentage difference of 1.70% compared to the dataset. This highlighted the importance of accurate data in understanding the scale of the challenge.
+**2. Personal Motivation**
 
-Through visualizations and analysis, I debunked misconceptions and uncovered insights about access to water across different income groups and population sizes. I found that the distribution of access to basic water services varied across income groups, and countries with greater urban population shares were more likely to provide basic water service.
+As a young Nigerian with a background in biochemistry and bioinformatics, I am deeply invested in issues related to public health and sustainable development. Access to clean water remains a significant challenge in many parts of the world, including Nigeria. This project fueled my passion for leveraging data science to address real-world problems and contribute to positive change. It aligns perfectly with my career aspirations to become a data scientist who utilizes analytical skills to make a difference.
 
-## Part 2: Transforming the Data and Analyzing Trends
+**Data Collection and Preparation**
 
-In the second part of the project, I focused on the year representation and annual rates of change. I analyzed the dataset's time range and observed the distribution of annual rates of change for rural and urban areas. I found that more countries had higher rates of change in rural areas, indicating the need for targeted interventions in these regions.
+**3. Data Sources**
 
-Analyzing regional differences, I discovered that Sub-Saharan Africa saw the greatest improvement in access to basic water services on a national level. This highlighted the importance of addressing regional disparities and implementing sustainable solutions.
+The dataset for this project was provided by the ExploreAI academy during their analysis of Google Sheets course. While the specific source might not be applicable to real-world scenarios, it provided a valuable platform to hone data analysis techniques. 
 
-## Dashboard Display
+**Data Cleaning and Preprocessing**
+
+The initial analysis revealed a discrepancy in the estimated world urban population size compared to external sources. This highlighted the importance of data verification and quality control. Steps were taken to address missing values, ensure data consistency, and perform necessary transformations to prepare the data for analysis.
+
+**Exploratory Data Analysis (EDA)**
+
+**4. Descriptive Statistics**
+
+The analysis included examining central tendency measures like mean and median, as well as dispersion measures like standard deviation and interquartile range (IQR). These statistics provided a foundational understanding of the data distribution related to access to water. 
+
+**5. Data Visualization**
+
+Visualizations such as histograms, bar charts, and scatter plots were employed to explore relationships between variables like income levels, population size, and access to basic water services. These visualizations helped identify patterns, trends, and potential outliers requiring further investigation.
 
 ![Dashboard](Walkthroughs_1_2/dashboard.jpg)
 
-Above is a visual representation of the project's findings, displayed in the dashboard format. The dashboard provides a comprehensive overview of access to safe and affordable drinking water, showcasing the insights gained from the data analysis.
+**Analytical Techniques**
 
-## Conclusion
+**6. Analysis Methods**
 
-This project serves as a reminder that access to clean water is a fundamental human right. By understanding the challenges, analyzing trends, and implementing targeted interventions, we can work towards a sustainable future where everyone has access to safe and affordable drinking water.
+The project utilized techniques like time-series analysis to examine changes in access to water over time. Additionally, comparisons were made between rural and urban areas to identify discrepancies and areas requiring focused interventions. 
+
+**7. Key Findings**
+
+The analysis revealed:
+
+* Disparities in access to water across income groups, highlighting the need for targeted solutions.
+* A correlation between higher urban population shares and increased access to water service, suggesting potential infrastructure challenges in rural areas.
+* Sub-Saharan Africa demonstrating the most significant improvement in national access to water, emphasizing the effectiveness of regional initiatives.
+
+**Business Impact**
+
+**8. Implications of Findings**
+
+These findings can inform decision-making for organizations working towards achieving universal access to water. By focusing on low-income communities and rural areas, interventions can be strategically directed to bridge the identified gaps. Additionally, the analysis can support prioritizing regions with the greatest need for infrastructure development and investment.
+
+**Challenges and Solutions**
+
+**9. Obstacles Encountered**
+
+The initial data discrepancy presented a challenge, underlining the importance of data validation and critical thinking throughout the analysis process.
+
+**Solutions and Lessons Learned**
+
+To address the data discrepancy, the analysis relied on external sources to verify population data and ensure data quality. This experience emphasizes the need for vigilance in data cleaning and the importance of cross-referencing information.
+
+**Conclusion and Future Work**
+
+**10. Project Summary**
+
+This project successfully utilized data analysis techniques to gain valuable insights into the global challenge of access to water. By identifying disparities and areas for improvement, it contributes to the goal of achieving universal access to this fundamental human right.
+
+**11. Future Improvements**
+
+Future efforts could involve incorporating additional data sources such as water quality metrics and infrastructure investment data. Further analysis could explore the impact of climate change on water availability and identify potential mitigation strategies.
+
+**Personal Reflection**
+
+**12. Skills and Growth**
+
+This project provided a valuable platform to hone my data analysis skills, particularly in data cleaning, visualization, and exploratory analysis. It further solidified my interest in applying data science to address real-world challenges related to public health and sustainability.
+
+**13. Conclusion**
+
+My passion for data science and its potential to create positive change remains strong. I am grateful for the opportunity to have undertaken this project and look forward to further developing my skills to contribute to a future where data-driven solutions address global challenges like access to safe and affordable drinking water.
+
+**Attachments and References**
+
+**14. Supporting Documents**
+
+While the original data source might not be applicable in a real-world scenario, details about the specific ExploreAI course and materials used can be included for reference. 
+
+**15. References**
+
+* I acknowledge the ExploreAI academy and ALX Africa for providing the data and learning platform.
